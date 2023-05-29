@@ -1,3 +1,3 @@
 # Learning
 ---
-This is how I learn git
+This is how we learn git
